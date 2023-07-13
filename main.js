@@ -15,7 +15,6 @@ function soPodeMaiusculo(textoMaiusculo){
         console.log("O texto precisa ser maiúsculo")
     }
 }
-
-trocaCaractereTporSete("Tudo bem?");
+trocaCaractereTporSete("Tranquilo?");
 regexBuscaPalavra("Oi mãe! Tô na televisão mãe!");
 soPodeMaiusculo("EAE");
