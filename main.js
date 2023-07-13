@@ -16,6 +16,6 @@ function soPodeMaiusculo(textoMaiusculo){
     }
 }
 
-//trocaCaractereTporSete("Tudo bem?");
-//regexBuscaPalavra("Ser carnívoro e comer animais é como mães, eu amo minha mãe, mas comeria a sua mãe");
+trocaCaractereTporSete("Tudo bem?");
+regexBuscaPalavra("Oi mãe! Tô na televisão mãe!");
 soPodeMaiusculo("EAE");
