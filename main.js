@@ -17,4 +17,4 @@ function soPodeMaiusculo(textoMaiusculo){
 }
 trocaCaractereTporSete("Tranquilo?");
 regexBuscaPalavra("Oi mãe! Tô na televisão mãe!");
-soPodeMaiusculo("EAE");
+soPodeMaiusculo("SALVE");
